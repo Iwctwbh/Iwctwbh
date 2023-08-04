@@ -23,6 +23,4 @@ Here are some ideas to get you started:
 </picture>
 
 ### Code
-![Iwctwbh's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Iwctwbh&show_icons=true&count_private=true)  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iwctwbh&show_icons=true)
+![Iwctwbh's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Iwctwbh&show_icons=true&count_private=true) ![Iwctwbh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iwctwbh&show_icons=true)
